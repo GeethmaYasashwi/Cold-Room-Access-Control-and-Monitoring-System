@@ -30,3 +30,9 @@ https://github.com/GeethmaYasashwi/Cold-Room-Access-Control-and-Monitoring-Syste
 
 Mr. S. Nishankar
 
+
+# Circuit diagram
+
+
+
+![image](https://github.com/user-attachments/assets/86af89bf-1ff3-4637-a926-6305682dab81)
