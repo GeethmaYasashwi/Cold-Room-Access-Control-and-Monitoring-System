@@ -21,6 +21,9 @@ D.M.C.P. GUNARATHNA      - 2021/E/030
 L.M.N.H. DE MEL         - 2021/E/082
 W.G.G.Y. WICKRAMARATHNE - 2021/E/193
 
+# Circuit Diagram
+https://github.com/GeethmaYasashwi/Cold-Room-Access-Control-and-Monitoring-System/blob/main/image.png
+
 
 
 # Mentors:
