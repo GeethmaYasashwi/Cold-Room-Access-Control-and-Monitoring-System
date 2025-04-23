@@ -21,8 +21,28 @@ D.M.C.P. GUNARATHNA      - 2021/E/030
 L.M.N.H. DE MEL         - 2021/E/082
 W.G.G.Y. WICKRAMARATHNE - 2021/E/193
 
+
+# System Architecture
+
+
+The system integrates hardware and software components to control access and monitor activity in the cold room. 
+Face Recognition Module: Identifies and verifies authorized personnel. 
+Door Control Mechanism: Actuates automatic door opening/closing. 
+Timer and Alert System: Tracks the time spent by individuals and issues alerts if the allowed time is exceeded. 
+Logbook Module: Logs employee ID, entry time, and exit time in a database.
+
+
+
 # Circuit Diagram
 https://github.com/GeethmaYasashwi/Cold-Room-Access-Control-and-Monitoring-System/blob/main/image.png
+
+# Sequence Diagram
+![Picture1](https://github.com/user-attachments/assets/bdd0da3f-6b98-44f9-92a0-eced27332c06)
+
+# User Case Diagram
+
+![pic](https://github.com/user-attachments/assets/8869f767-fc4a-4bb7-b3d9-58b6bc3f9e6a)
+
 
 
 
